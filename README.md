@@ -20,8 +20,6 @@ Welcome to my GitHub profile!
 
 ---
 
-## 📚 Projects
-
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/kritika-dutta-18025a386)
